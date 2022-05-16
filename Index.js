@@ -8,6 +8,8 @@ const colisaodomapa = []
 
 
 
+
+
 for(let i = 0; i < blocoblock.length; i += 70){
 
     colisaodomapa.push((blocoblock.slice(i, 70 + i)))
